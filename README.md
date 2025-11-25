@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hey "there" 🤗:
 🔭 I’m currently working on<br><br>“Building clean, modern web apps and learning advanced full-stack development.”<br><br>🤝 I’m looking to collaborate on<br><br>“Open-source projects related to AI, automation, and modern UI/UX.”<br><br>🫂 I’m looking for help with<br><br>“Mastering backend architecture and optimizing large-scale applications.”<br><br>🌱 I’m currently learning<br><br>“React, Node.js, databases, and AI integration for real-world projects.”<br><br>💬 Ask me about<br><br>“Frontend design, UI/UX, JavaScript, and building responsive user interfaces.”<br><br>⚡ Fun fact<br><br>“I turn ideas into code faster than I decide what to eat.” 😄💻⚡
 
 
